@@ -30,7 +30,7 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 Sed consectetur lectus ut turpis suscipit,
 blandit fringilla nisi tempus
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas
-In facilisis mattis diam,
+In facilisis mattis diama,
 eget rhoncus metus commodo eget.
 
 Vivamus eu augue nec mauris dapibus posuere
