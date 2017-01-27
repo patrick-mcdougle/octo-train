@@ -2,7 +2,7 @@ Lorem ipsum dolor sit amet,
 consectetur adipiscing elit.
 Pellentesque venenatis interdum tellus,
 in rutrum felis commodo eu.
-In facilisis felis leo,
+In facilisis felis leon,
 a vestibulum nisi consequat vitae.
 Aenean nec erat id augue condimentum lacinia.
 Donec mattis eu lorem sit amet vestibulum.
@@ -13,7 +13,7 @@ Nulla porta posuere elit non suscipit.
 Quisque elementum a tortor eget viverra.
 
 
-Cras faucibus tincidunt tortor a auctor.
+Cras faucibus tincidunt tortoise a actor.
 Mauris non felis eu ligula rhoncus ultricies in id eros.
 Phasellus id sollicitudin nulla.
 Aenean elementum luctus purus,
